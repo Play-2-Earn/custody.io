@@ -35,7 +35,7 @@ export default function App() {
           </p>
 
           <a
-            href="https://www.b1tcoin.ai/"
+            href="https://www.ycx.ai/
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-green-500 hover:bg-green-600 rounded-full text-lg font-semibold transition-colors"
